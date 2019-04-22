@@ -16,6 +16,18 @@
     },
     "github": {
       "url": "https://github.com/luxplanjay"
+    },
+    "anchor-navigation-ex": {
+      "showLevel": true,
+      "mode": "float",
+      "showGoTop": false,
+      "float": {
+        "floatIcon": "fa fa-navicon",
+        "showLevelIcon": false,
+        "level1Icon": "fa fa-hand-o-right",
+        "level2Icon": "fa fa-hand-o-right",
+        "level3Icon": "fa fa-hand-o-right"
+      }
     }
   }
 }
