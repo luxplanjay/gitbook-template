@@ -1,4 +1,21 @@
 {
-  "plugins": [],
-  "pluginsConfig": {}
+  "plugins": [
+    "anchor-navigation-ex",
+    "bandwidth-toggle-chapters",
+    "prism",
+    "github",
+    "hints",
+    "copy-code-button",
+    "back-to-top-button",
+    "-highlight",
+    "-sharing"
+  ],
+  "pluginsConfig": {
+    "prism": {
+      "css": ["prismjs/themes/prism-tomorrow.css"]
+    },
+    "github": {
+      "url": "https://github.com/luxplanjay"
+    }
+  }
 }
